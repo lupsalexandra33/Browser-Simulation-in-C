@@ -51,10 +51,3 @@ se elibereaza memoria alocata dinamic a fiecarei linii din vectorul operatii,
 iar apoi prin functia free_valgrind se goleste lista dublu inlantuita, lista a
 carui nod contine fiecare cele doua stive si pagina curenta, cu descriere, toate
 fiind golite la randul lor prin intermediul acestei functii.
-37.ComplexTest.in: 2/2
-  Valgrind PASSED
-38.ComplexTest.in: 2/2
-  Valgrind PASSED
-
-Total: 100/100
-Valgrind: 20/20
